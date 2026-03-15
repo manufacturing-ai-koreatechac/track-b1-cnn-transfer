@@ -164,6 +164,14 @@ plt.show()
 
 ---
 
+## 관련 공개 데이터셋
+
+| # | 데이터셋 | 설명 | 규모 | 링크 |
+|:-:|---------|------|:----:|------|
+| 1 | **MVTec Anomaly Detection Dataset** | 산업용 물체·텍스처 15종 고해상도 이미지. 정상 학습 이미지 + 70가지 이상 유형. CNN 전이학습 벤치마크 표준. | 5,354장 | [MVTec](https://www.mvtec.com/company/research/datasets/mvtec-ad) |
+| 2 | **NEU Surface Defect Database** | 열연강판 6가지 결함 유형(롤마크·크랙·스케일 등). ResNet/CNN 분류 연구에 광범위하게 사용. 불균형 클래스 처리 실습 적합. | 1,800장 | [NEU](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html) |
+| 3 | **Severstal Steel Defect Detection** | 세베르스탈 철강 제조 실제 라인 데이터. 4종 결함 유형 픽셀 단위 마스크 포함. Kaggle 대회 데이터로 완성도 높음. | 18,000장 | [Kaggle](https://www.kaggle.com/c/severstal-steel-defect-detection/data) |
+
 ## 📚 참고 자료
 
 ### 데이터 소스
